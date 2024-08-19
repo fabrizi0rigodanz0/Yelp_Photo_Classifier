@@ -8,6 +8,11 @@ This project focuses on developing a sophisticated computer vision system to cla
 - **Convolutional Neural Networks (CNN)**: Construction of a CNN architecture with multiple Conv2D layers and MaxPooling layers, optimized for image classification tasks.
 - **Transfer Learning**: Utilization of pre-trained models like VGG16, ResNet, and Inception from the ImageNet dataset. The transfer learning approach involves fine-tuning these models to adapt them to the specific task of classifying Yelp business photos.
 
+## Large Files
+
+The dataset files used in this project are available in the [latest release](https://github.com/fabrizi0rigodanz0/Yelp_Photo_Classifier/releases/tag/v1.0).
+
+
 ## Objectives:
 - Build and optimize a computer vision model capable of accurately classifying business photos.
 - Compare the performance of different model architectures, including DNN, CNN, and transfer learning techniques.
